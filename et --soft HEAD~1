@@ -1,0 +1,58 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 46b40a9..ad75b61 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,4 +1,52 @@[m
+[31m-# My First Repository[m
+[32m+[m[32m# Heading 1 (largest)[m
+[32m+[m
+[32m+[m[32m## Heading 2[m
+[32m+[m
+[32m+[m[32m### Heading 3[m
+[32m+[m
+[32m+[m[32mBold text Italic text Strikethrough[m
+[32m+[m
+[32m+[m[32mUnordered list:[m
+[32m+[m
+[32m+[m[32m- Item A[m
+[32m+[m
+[32m+[m[32m- Item B[m
+[32m+[m
+[32m+[m[32m- Nested item B1 (indent with 2 spaces)[m
+[32m+[m
+[32m+[m[32mOrdered list:[m
+[32m+[m
+[32m+[m[32m1. First step[m
+[32m+[m
+[32m+[m[32m2. Second step[m
+[32m+[m
+[32m+[m[32mInline code: print("Hello")[m
+[32m+[m
+[32m+[m[32mFenced code block (use language name for syntax highlighting):[m
+[32m+[m
+[32m+[m[32m```python[m
+[32m+[m
+[32m+[m[32mdef greet(name):[m
+[32m+[m
+[32m+[m[32mreturn f"Hello, {name}!"```[m
+[32m+[m
+[32m+[m[32mHyperlink: [GitHub](https://github.com)[m
+[32m+[m
+[32m+[m[32mTable:[m
+[32m+[m
+[32m+[m[32m| Column 1 | Column 2 | Column 3 |[m
+[32m+[m
+[32m+[m[32m|----------|:--------:|----------:|[m
+[32m+[m
+[32m+[m[32m| Left | Centre | Right |[m
+[32m+[m
+[32m+[m[32mBlockquote:[m
+[32m+[m
+[32m+[m[32m> An important note or reference goes here.[m
+[32m+[m
+[32m+[m[32mHorizontal divider:[m
+[32m+[m
+[32m+[m[32m---# My First Repository[m
+ [m
+ ## Description[m
+ CSE103 lab repository - LAB3.[m
